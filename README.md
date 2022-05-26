@@ -1,5 +1,5 @@
 # cld-bd-partner-training
-Partner Integration Foudations
+Partner Integration Foundations
 ## Environment Setup
 
 ### Install Node.js and NPM
